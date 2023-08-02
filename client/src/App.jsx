@@ -62,7 +62,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <Home />
               <MobileFooter />
               <Footer />
@@ -74,7 +73,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <LehengaCholiCollections />
               <MobileFooter />
               <Footer />
@@ -86,7 +84,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <SareesCollections />
               <MobileFooter />
               <Footer />
@@ -98,7 +95,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <GownCollections />
               <MobileFooter />
               <Footer />
@@ -110,7 +106,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <TopCollections />
               <MobileFooter />
               <Footer />
@@ -122,7 +117,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <UserDetails />
               <MobileFooter />
               <Footer />
@@ -134,7 +128,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <CollectionDetails />
               <MobileFooter />
               <Footer />
@@ -185,7 +178,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <Login />
               <MobileFooter />
               <Footer />
@@ -197,7 +189,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <Register />
               <MobileFooter />
               <Footer />
@@ -209,7 +200,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <ForgetPassword />
               <MobileFooter />
               <Footer />
@@ -221,7 +211,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <Orders />
               <MobileFooter />
               <Footer />
@@ -237,7 +226,6 @@ function AppRoutes() {
           element={
             <>
               <NavbarCom />
-              <NavbarMenu />
               <NoMatch />
               <MobileFooter />
               <Footer />

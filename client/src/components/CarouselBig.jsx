@@ -21,14 +21,7 @@ const CarouselBig = () => {
       src="./images/leanding3.jpg"
       alt="image 3"
       className="h-full w-full object-cover"
-    />
-  
-    <img
-      src="./images/leanding4.jpg"
-      alt="image 4"
-      className="h-full w-full object-cover"
-    />
-  
+    />  
   </Carousel>
   </div>
   )
