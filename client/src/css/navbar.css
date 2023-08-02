@@ -1,0 +1,83 @@
+.custom-link-hover {
+    transition: margin-bottom 0.3s ease-in-out;
+}
+
+.fb-icon:hover {
+    margin-bottom: 0.5rem;
+    color: rgb(36, 150, 185);
+}
+
+.pin-icon:hover {
+    margin-bottom: 0.5rem;
+    color: rgb(211, 15, 15);
+}
+
+.tele-icon:hover {
+    margin-bottom: 0.5rem;
+    color: rgb(66, 66, 215);
+}
+
+.mail-icon:hover {
+    margin-bottom: 0.5rem;
+    color: rgb(185, 91, 36);
+}
+
+.menu-btn {
+    color: black;
+    background-color: transparent !important;
+    transition: color 0.3s;
+}
+
+.menu-ex {
+    width: 100vw;
+}
+
+.menu-btn:hover {
+    color: rgb(255, 154, 191);
+}
+
+.badge {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.link {
+    text-decoration: underline;
+    font-size: 0.9em;
+}
+
+.link:hover {
+    color: rgb(255, 154, 191);
+}
+
+.search-container {
+    position: relative;
+    display: inline-block;
+}
+
+.search-container {
+    margin-top: 4vh;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.margin{
+    margin-top: 30rem;
+}
+.search-icon {
+    position: absolute;
+    right: 1vw;
+    bottom: 1vh;
+    /* transform: translateY(-50%); */
+    pointer-events: none;
+}

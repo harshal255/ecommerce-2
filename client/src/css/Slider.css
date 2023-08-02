@@ -1,0 +1,40 @@
+.slick-arrow {
+    color: white !important;
+    /* display: none; */
+    /* margin-top: -30px; */
+    
+   
+}
+
+.slick-prev {
+   
+    z-index: 50;
+    margin-left: 75px;
+    /* visibility: hidden !important; */
+    color: white !important;
+
+
+
+}
+
+.slick-next {
+    
+    z-index: 50;
+    margin-right: 75px;
+    /* visibility: hidden !important; */
+    color: white !important;
+}
+
+/* .custom-prev-icon {
+    font-size: 50px !important;
+    visibility: visible !important;
+    color: white !important;
+   
+   
+}
+
+.custom-next-icon {
+    font-size: 50px;
+    visibility: visible !important;
+    color: white !important;
+} */
